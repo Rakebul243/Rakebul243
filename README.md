@@ -11,6 +11,7 @@ I'm a double major in Electrical Engineering and Applied Mathematics & Statistic
 
 - An inventory tracker on the AVR128DB48 in assembly, using interrupts and a finite-state machine, with the hardware designed in KiCad
 - A beginner drone build and a clock I coded in high school, which got me into hardware and software together
+- AI workflow training for Handshake AI (macOS task prompts and plan reviews), plus Forage job simulations with Tata Group and GE Aerospace
 
 ## Skills
 
